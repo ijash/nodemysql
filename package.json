@@ -1,0 +1,23 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "Mysql with node as in MVC architecture",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijash/nodemysql.git"
+  },
+  "author": "Ijash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijash/nodemysql/issues"
+  },
+  "homepage": "https://github.com/ijash/nodemysql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
